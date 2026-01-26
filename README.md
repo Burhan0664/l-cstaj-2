@@ -86,6 +86,7 @@ Bu projede, **FastAPI ile RESTful API geliştirme sürecinde** kullanılan temel
   Veritabanı şema değişikliklerinin yönetimi için Alembic kullanılmıştır. 
   Migration yapısı sayesinde veritabanı versiyonlaması kontrollü şekilde sağlanmıştır.
 
+---
 
 ### 📚 Faydalı Kaynaklar
 
@@ -123,6 +124,7 @@ Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 **Burhan Çavdaroğlu**  
 📍 Ankara, Türkiye  
 🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
 
 
 
