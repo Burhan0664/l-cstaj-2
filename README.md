@@ -1,6 +1,6 @@
 # l-cstaj-2
 
-**l-cstaj-1**, profesyonel bir yazılım stajı süresince geliştirilen; algoritma geliştirme, güvenli yazılım pratikleri ve veri yönetimi odaklı bir projedir. Bu repository, gerçek dünya problemlerine çözüm üretme, güvenli kod yazma ve dokümantasyon disiplinini yansıtmaktadır.
+**l-cstaj-2**, profesyonel bir yazılım stajı süresince geliştirilen; algoritma geliştirme, güvenli yazılım pratikleri ve veri yönetimi odaklı bir projedir. Bu repository, gerçek dünya problemlerine çözüm üretme, güvenli kod yazma ve dokümantasyon disiplinini yansıtmaktadır.
 
 ---
 
@@ -123,6 +123,7 @@ Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 **Burhan Çavdaroğlu**  
 📍 Ankara, Türkiye  
 🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
 
 
 
