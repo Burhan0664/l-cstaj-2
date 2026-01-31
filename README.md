@@ -88,7 +88,7 @@ Bu projede, **FastAPI ile RESTful API geliştirme sürecinde** kullanılan temel
 
 ---
 
-### 📚 Faydalı Kaynaklar
+### 📚 Kullanılan Kaynaklar
 
 Proje geliştirme sürecinde yararlanılan başlıca dokümantasyonlar:
 
@@ -124,6 +124,7 @@ Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 **Burhan Çavdaroğlu**  
 📍 Ankara, Türkiye  
 🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
 
 
 
